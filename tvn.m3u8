@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",ITVN
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itvn.pl.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN
+http://mains.services:2086/A.Jones01/1904550/92749?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/TVN.pl.png" group-title="Undefined",TVN
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73735?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN 24
+http://mains.services:2086/A.Jones01/1904550/92751?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/TVN24.pl.png" group-title="Undefined",TVN 24
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73733?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN 24
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvn.24.pl.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/TVN7.pl.png" group-title="Undefined",TVN 7
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/112680?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN 7 HD
+http://mains.services:2086/A.Jones01/1904550/92805?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN FABULA
+http://mains.services:2086/A.Jones01/1904550/92750?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/TVNFabula.pl.png" group-title="Undefined",TVN Fabuła
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73734?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN STYLE
+http://mains.services:2086/A.Jones01/1904550/92748?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/TVNStyle.pl.png" group-title="Undefined",TVN Style
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73736?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/TVNTurbo.pl.png" group-title="Undefined",TVN Turbo
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73737?checkedby:iptvcat.com
